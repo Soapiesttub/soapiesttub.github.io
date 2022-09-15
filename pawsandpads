@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Paws and Pads </title>
+        <link rel="stylesheet" href="Resources/CSS/header.css">
+        <link rel="stylesheet" href="Resources/CSS/general.css">
+        <link rel="stylesheet" href="Resources/CSS/main.css">
+        <link rel="stylesheet" href="Resources/CSS/footer.css">
+        <link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Sora:wght@200;400;700&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <nav>
+                <a class='home' href='index.html'> <img src="Resources/Images/Paws_and_pads_logo edited.png"> </a>
+                <ul>
+                    <li> About Us</li>
+                    <li> Rehoming</li>
+                    <li> Donate </li>
+                    <li> Volunteer </li>
+                    <li> Contact Us</li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section class="hero">
+                <article class="hero-art">
+                    <h2> Rehome a rescued pet</h2>
+                    <p> Can you provide a rescued animal their forever home?</p>
+                    <button class="click-here"> Find a Pet </button>
+                </article>
+            </section>
+
+            <section class="promo">
+                <div class="promo-block">
+                    <img src="Resources/Images/vets.jpeg" class="promo-img">
+                    <article>
+                        <h2> Veterinary</h2>
+                        <p> We provide free essential Veterinary Treatment to all our pets</p>
+                    </article>
+                </div>
+                <div class="promo-block">
+                    <img src="Resources/Images/talk.jpeg" class="promo-img">
+                    <article>
+                        <h2> Education</h2>
+                        <p> Our team provide free to attend talks all around the North West of England</p>
+                    </article>
+                </div>
+                <div class="promo-block">
+                    <img src="Resources/Images/loss.webp" class="promo-img">
+                    <article>
+                        <h2> Pet Loss</h2>
+                        <p> We provide a helpline to offer support for your feelings about pet loss</p>
+                    </article>
+                </div>
+                <div class="promo-block">
+                    <img src="Resources/Images/training.jpeg" class="promo-img">
+                    <article>
+                        <h2> Behaviour</h2>
+                        <p> Our team of trainers provide you with tailored behaviour plans</p>
+                    </article>
+                </div>
+
+            </section>
+
+
+
+
+            <footer> 
+                <div class="footer-main">
+                    <div class="footer-chunk">
+                        <h2> Centers </h2>
+                        <p> <strong>Liverpool Centre </strong> <br>
+                            Paws and Pads Animal Rescue Centre <br>
+                            Fake Farms, Hopeful lane, Liverpool L30 2JL <br>
+                            Telephone: 0151-463-6574 <br>
+                            Charitable Incorporated Organisation: 00022093.</p>
+                        <p> <strong> Wales Centre </strong> <br>
+                            Wishful Dreams Farm, Madeup Lane, Wrexham, LL54 6EA <br>
+                            Telephone: 01286-555-505.
+                        
+                        </p>
+                    </div>
+                    <div class="footer-chunk" id="newsletter"> 
+                        <h2> Sign up for our newsletter</h2>
+                        <p> We'll send you monthly emails, packed with info about our work and pupdates about some of our favourite furry friends.</p>
+                        <button class="click-here"> sign up</button>
+                        <p> Follow us on social media!</p>
+                        <i class="fa-facebook"></i>
+                    </div>
+                </div>
+            </footer>
+        </main>
+    </body>
+</html>
